@@ -1,0 +1,64 @@
+body {
+    font-family: var(--bs-body-font-family);
+    background-color: #00CDCD;
+}
+
+
+
+
+.myname {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.mynav {
+    background-color: #00CDCD;
+    color: #fff;
+    margin: auto 5px ;
+
+
+}
+
+.bunner1 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    
+    
+}
+
+.bunner2 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 90px;
+}
+
+.bunner3 {
+    color: #fff;
+    max-width: 400px;
+    font-weight: 400;
+line-height: 30px;
+}
+
+
+.mylink{
+ border-radius: 50px;
+padding: 15px 45px;
+text-transform: uppercase;
+font-size: 14px;
+display: inline-block;
+background-color: #fff;
+color: #00CDCD;
+}
+
+.mylove {
+    margin-top: 200px;
+}
+
+.mypicture{
+    margin-right: 200px;
+}
+
